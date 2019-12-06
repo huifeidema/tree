@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "ab60ddae-35bf-4835-9f14-1c4435a41d0c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "结果9": {
+      "ver": "1.0.3",
+      "uuid": "4920bb82-b851-42d0-a3c1-a94d1ddf4bf4",
+      "rawTextureUuid": "ab60ddae-35bf-4835-9f14-1c4435a41d0c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 48,
+      "offsetY": 42,
+      "trimX": 440,
+      "trimY": 88,
+      "width": 779,
+      "height": 1157,
+      "rawWidth": 1563,
+      "rawHeight": 1417,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
